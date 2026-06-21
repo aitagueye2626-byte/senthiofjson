@@ -1,0 +1,6 @@
+{
+  "name": "senthiof-json",
+  "version": "1.0.0",
+  "description": "SenThiof-JSON - Gestion de vente de poissons (données initiales en JSON, persistance en localStorage)",
+  "private": true
+}
